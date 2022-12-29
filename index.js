@@ -33,7 +33,7 @@ var questions = [{
   a:Mumbai Indians
   b:Chennai Super Kings
   c:Royal Challengers Bangalore
-  d:Delhi Capital
+  d:Delhi Capitals
   `,
   answer: "a"
 }, {
@@ -49,7 +49,7 @@ var questions = [{
   a:Lasith Malinga
   b:Dwayne Bravo
   c:Amit Mishra
-  d:Yuzxendra Chahal
+  d:Yuvzendra Chahal
   `,
   answer: "b"
 }, {
